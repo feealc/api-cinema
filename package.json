@@ -38,7 +38,7 @@
   },
   "apidoc": {
     "title": "API Cinema",
-    "url": "https://api-cinema.herokuapp.com/api",
+    "url": "https://api-cinema2.herokuapp.com/api",
     "order": [
       "Usuario",
       "getAllUsuarios",
