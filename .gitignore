@@ -1,9 +1,6 @@
 
 # Created by https://www.gitignore.io/api/node,sublimetext,macos,windows,linux
 
-# arquivo com as minhas configuracoes que nao quero deixar disponivel no github
-config.js
-
 ### Linux ###
 *~
 
